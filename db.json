@@ -4,7 +4,9 @@
 "id":1,
 "name":"ABC Product",
 "img":"https://ufs-formula1.s3.eu-central-1.amazonaws.com/the-vegetarian-butcher-nochicken-nuggets-1-75-kg-50496129.jpg",
-"description":" The Vegetarian nochicken nuggets is great to eat"
+"description":" The Vegetarian nochicken nuggets is great to eat",
+"token":"abc"
+
 }
 ]
 }
